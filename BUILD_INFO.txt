@@ -1,0 +1,3 @@
+RANJITH PORTFOLIO V6 — 2026-10-25
+Files: index.html, styles.v6.css, script.v6.js, profile.js (unchanged), projects.js (unchanged), assets/ (unchanged).
+No external animation dependencies. Only Work in Motion is scroll-pinned horizontally.
